@@ -1,0 +1,44 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "7d0b58f8_38a9c5d8",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1020598
+      },
+      "writtenOn": "2022-10-03T21:16:47Z",
+      "side": 1,
+      "message": "Good work, let\u0027s make sure the README is professional",
+      "revId": "2a372c4925652cded8bb4d0e87ce918d8219f514",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "cb8e373f_0d3fc139",
+        "filename": "README.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 1020598
+      },
+      "writtenOn": "2022-10-03T21:16:47Z",
+      "side": 1,
+      "message": "-1 Add names of contributors to the README",
+      "range": {
+        "startLine": 1,
+        "startChar": 26,
+        "endLine": 1,
+        "endChar": 27
+      },
+      "revId": "2a372c4925652cded8bb4d0e87ce918d8219f514",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+    }
+  ]
+}
