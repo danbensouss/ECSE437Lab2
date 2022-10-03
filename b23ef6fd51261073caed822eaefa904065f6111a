@@ -1,0 +1,44 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "f518fc1e_be346ac1",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1020598
+      },
+      "writtenOn": "2022-10-03T21:30:50Z",
+      "side": 1,
+      "message": "Great work, but let\u0027s make it look more professional",
+      "revId": "b23ef6fd51261073caed822eaefa904065f6111a",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "4129024d_18df3da4",
+        "filename": "README.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 1020598
+      },
+      "writtenOn": "2022-10-03T21:30:50Z",
+      "side": 1,
+      "message": "-1 Add contributors to README",
+      "range": {
+        "startLine": 1,
+        "startChar": 27,
+        "endLine": 1,
+        "endChar": 36
+      },
+      "revId": "b23ef6fd51261073caed822eaefa904065f6111a",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+    }
+  ]
+}
